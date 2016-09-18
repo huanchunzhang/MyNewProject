@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 11111
 22222
 33333
+=======
+11111
+>>>>>>> parent of 374d3bf... update file02
 =======
 11111
 >>>>>>> parent of 374d3bf... update file02
