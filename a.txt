@@ -4,6 +4,10 @@
 88888
 99999
 dev 01
+int y = 0;
+y++;
+System.out.println(y);
+
 master 01
 int i = 0;
 i++;
